@@ -4,6 +4,8 @@
 @import url(components/banner.css);
 @import url(components/avatar.css);
 @import url(components/button.css);
+@import url(components/introduction.css);
+@import url(components/cards.css);
 
 h1{
 	font-family: 'Nunito', sans-serif;
