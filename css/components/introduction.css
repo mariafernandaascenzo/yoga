@@ -1,0 +1,14 @@
+.introduction{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin: 50px 0px;
+	justify-content: center;
+}
+
+.introduction p{
+	flex-grow: 1;
+	width: 400px;
+}
+
